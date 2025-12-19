@@ -3,6 +3,9 @@
 - 🔭 I’m currently working as an engineering manager at Cognizant
 - Speaker at Cloud Conferences
 - 🌱 Certified Kubernetes Administrator
+- Google Certified Professional Cloud Architect
+- Google Certified Cloud Engineer
+- AWS Certified Architect - Associate
 - 👯 I’m looking to collaborate on backend and platform engineering projects
 - 💬 Ask me about Backend & Platform Engineering
 - 📫 How to reach me: At [LinkedIn](https://www.linkedin.com/in/rajeshmuthusamy/), [Twitter](https://twitter.com/rajeshmuthusamy)
